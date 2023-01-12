@@ -74,4 +74,5 @@ describe('Traveller', function() {
     assert.deepStrictEqual(traveller.getUniqueModesOfTransport(), expected);
   });
 
+  
 });
